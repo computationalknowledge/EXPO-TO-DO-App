@@ -1,2 +1,6 @@
 npm install expo-cli --global
 
+expo init tasklist
+
+cd tasklist-app
+npm start
