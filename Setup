@@ -1,3 +1,6 @@
+remember you still need to install EXPO with YARN
+
+The line below installs the command line interface tools:
 npm install expo-cli --global
 
 expo init tasklist
