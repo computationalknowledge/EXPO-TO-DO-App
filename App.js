@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
   inputContainer :{
     flexDirection :'row', 
     justifyContent :'space-between', 
-    alignContent:'center,
+    alignContent:'center',
     bottom:20
   },
 });
